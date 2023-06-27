@@ -1,5 +1,7 @@
 # IN1010 Object-oriented programming 
 
+All assignments are done individually.
+
 ### Course content:
 
 (https://www.uio.no/studier/emner/matnat/ifi/IN1010/index-eng.html#course_content)
