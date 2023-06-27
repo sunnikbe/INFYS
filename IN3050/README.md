@@ -1,5 +1,7 @@
 # IN3050 Introduction to Artificial Intelligence and Machine Learning
 
+All assignments were done individually.
+
 ### Course content:
 
 (https://www.uio.no/studier/emner/matnat/ifi/IN3050/index-eng.html#course_content)
