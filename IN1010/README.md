@@ -1,6 +1,6 @@
 # IN1010 Object-oriented programming 
 
-All assignments are done individually.
+All assignments were done individually.
 
 ### Course content:
 
