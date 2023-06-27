@@ -1,0 +1,20 @@
+F5:
+
+Det var mye jobb å løse denne oppgaven individuelt.
+Det var også helt greit å løse den individuelt da jeg selv 
+fikk overikt over hele koden og hvordan alt fungerte.
+Det skal veldig godt samarbeid til for å få samme typen oversikt
+over en stor oppgave om man velger å dele opp spesifikke oppgaver 
+mellom seg. Med tanke på tid er det nok lurt å løse denn oppgaven 
+som en gruppe, men jeg er glad jeg løste den individuelt da jeg  
+aldri har skrevet et så stort kodesystem før og ville fortså meg 
+på absolutt alle mulige deler, noe jeg føler jeg hadde mistet om 
+jeg var i en gruppe. Da hadde jeg nok kun lært min del veldig godt.
+Det å løse en oppgave som et team er en veldig god egenskap, og 
+veldig relevant i arbeidslivet, da de fleste "kodejobbene" består av å 
+være en del av ett eller flere team som jobber sammen med store koder
+og kodesystemer. Basert på at dette er for å lære, er jeg glad jeg 
+valgte å gjøre det individuelt slik at jeg kan bedre forstå _alles_
+deler av en kode, og ikke bare den delen jeg jobber med selv. 
+Pluss hvor viktig det er å kunne kommunisere hva man selv gjør, og få
+vite hva alle andre gjør for å kunne gjøre en stor oppgave som dette sammen.
