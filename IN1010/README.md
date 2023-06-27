@@ -1,8 +1,12 @@
 # IN1010 Object-oriented programming 
 
-#### Learning outcome 
+### Course content:
 
 (https://www.uio.no/studier/emner/matnat/ifi/IN1010/index-eng.html#course_content)
+
+This course is a continuation of IN1000 – Introduction to Object-oriented Programming and goes deeper into object-oriented programming; the working language is java, and it´ll be given an introduction to it. The course also touch upon some useful data-structures and algorithms.
+
+### Learning outcome:
 
 After taking IN1010, you´ll:
 
