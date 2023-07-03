@@ -1,4 +1,4 @@
-# INfag
+# INFYS - Informatics and Physics
 
 FYS3150 - Computational Physics using C++
 
