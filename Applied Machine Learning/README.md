@@ -1,4 +1,4 @@
-## Topics
+# Applied Machine Learning
 
 - Problem Based Learning
 - Introduction to Programming
